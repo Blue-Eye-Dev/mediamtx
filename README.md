@@ -1,3 +1,10 @@
+# 🚨 REPOSITORY MIGRATED 🚨
+
+**This repository has been migrated to a new location:**
+**[https://github.com/msicie/Blue-Eye_infra-mediamtx](https://github.com/msicie/Blue-Eye_infra-mediamtx)**
+
+---
+
 <h1 align="center">
   <img src="logo.png" alt="MediaMTX / rtsp-simple-server">
 

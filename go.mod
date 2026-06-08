@@ -1,6 +1,6 @@
 module github.com/bluenviron/mediamtx
 
-go 1.23
+go 1.24.0
 
 require (
 	code.cloudfoundry.org/bytefmt v0.0.0
@@ -32,9 +32,9 @@ require (
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/pion/webrtc/v3 v3.2.22
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/crypto v0.29.0
-	golang.org/x/sys v0.27.0
-	golang.org/x/term v0.26.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/sys v0.38.0
+	golang.org/x/term v0.37.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -87,12 +87,12 @@ require (
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	golang.org/x/arch v0.12.0 // indirect
-	golang.org/x/mod v0.17.0 // indirect
-	golang.org/x/net v0.31.0 // indirect
-	golang.org/x/sync v0.9.0 // indirect
-	golang.org/x/text v0.20.0 // indirect
+	golang.org/x/mod v0.29.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
+	golang.org/x/tools v0.38.0 // indirect
 	google.golang.org/protobuf v1.35.2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
